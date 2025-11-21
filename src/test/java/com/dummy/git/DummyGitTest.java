@@ -8,5 +8,6 @@ public class DummyGitTest {
 	public void gitTest() {
 		System.out.println("Sample test!!");
 		System.out.println("Sample test1!!");
+		System.out.println("Sample test2!!");
 	}
 }
